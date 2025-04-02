@@ -70,8 +70,8 @@ pip install python-dateutil
 
 ```graphql
 .
-├── workout_tracker.py       # Main codebase
-├── lec20_helpers.py         # GPS distance calculation helper
+├── Workout.py       # Main codebase
+├── Helper.py         # GPS distance calculation helper
 └── README.md                # Documentation
 ```
 ## 💡 Example Usage
