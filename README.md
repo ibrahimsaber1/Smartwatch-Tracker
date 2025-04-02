@@ -56,15 +56,14 @@ These OOP concepts make the code **cleaner, modular, and extensible** — allowi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ibrahimsaber1/smartwatch-tracker.git
-cd smartwatch-workout-tracker
+git clone https://github.com/Ibrahimsaber1/Smartwatch-Tracker.git
+cd Smartwatch-Tracker
 ```
 2. Install required packages:
 
 ```bash
 pip install python-dateutil
 ```
-3. Make sure you include the helper file helpers.py that defines
 
 ## 📦 File Structure
 
