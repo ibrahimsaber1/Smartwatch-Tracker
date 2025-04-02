@@ -123,3 +123,15 @@ Total elapsed time: 4500.0 seconds
 - Swimming workouts have their own calorie burn rate and pacing attribute.
 
 - You can easily extend this system to support new types of workouts or data fields.
+
+---
+
+## 🙏 Acknowledgments
+
+This project was inspired by and developed as part of my learning journey through the **[MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)** course.
+
+Special thanks to the MIT OpenCourseWare team and Professor Ana Bell.  
+The concepts and structure are based on the lecture series available here:  
+📺 [MIT 6.0001 Lecture 20 – Object Oriented Programming](https://www.youtube.com/watch?v=-wyc5FwzkcM&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&index=20)
+
+> This code is for educational purposes and reflects my understanding and application of OOP in Python, inspired by MIT's material.
